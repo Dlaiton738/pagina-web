@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(44, 43, 43);
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.libro{
+    background-color: #CBEEF7;
+    color: black;
+    margin: 30px;
+    border: 2px solid #2156CF;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    color: rgb(235, 111, 66);
+    border-bottom: 2px solid;
+    padding-bottom: 1px;
+}
+h2{
+    color: rgb(54, 54, 129);
+}
+
+.description{
+    background-color: #C7D9FC;
+    margin: 1px;
+    border: 2px solid #2156CF;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.linkeding{
+    background-color: #FCE5B3;
+    border: 2px solid #FF782B;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    margin: 30px;
+}
+
+a{
+    color:#FF782B;
+    text-decoration: none;
+}
